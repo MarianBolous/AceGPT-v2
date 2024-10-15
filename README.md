@@ -26,7 +26,7 @@ In this paper, we introduce AceGPT-v2, a series of open-source Large Language Mo
 
 ## Alignment Seed Data
 * Seed rewriting data annotated by the Alignment Expert (GPT-4): [AceGPT-v2-AlignmentData-Seed](https://huggingface.co/datasets/FreedomIntelligence/AceGPT-v2-AlignmentData/blob/main/rewrite_seed_data.json)
-* Arabic alignment data processed by the Alignment Worker (Qwen-1.5-4B-Chat): [AceGPT-v2-AlignmentData](https://huggingface.co/datasets/FreedomIntelligence/AceGPT-v2-AlignmentData/blob/main/alignment_data.json)
+* Arabic alignment data processed by the Alignment Worker (Qwen-1.5-4B-Chat): [AceGPT-v2-AlignmentData](https://huggingface.co/datasets/FreedomIntelligence/AceGPT-v2-AlignmentData)
 
 
 # 👨‍⚕️ Model
