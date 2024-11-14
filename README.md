@@ -59,10 +59,12 @@ Without these, nothing could happen in this repository.
 
 # Citation
 ```
-@inproceedings{liangalignment,
-  title={Alignment at Pre-training! Towards Native Alignment for Arabic LLMs},
-  author={Liang, Juhao and Cai, Zhenyang and Zhu, Jianqing and Huang, Huang and Zong, Kewei and An, Bang and Alharthi, Mosen and He, Juncai and Zhang, Lian and Li, Haizhou and others},
-  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}
+@inproceedings{liang2024alignment,
+  title={Alignment at Pre-training! Towards Native Alignment for Arabic {LLM}s},
+  author={Juhao Liang and Zhenyang Cai and Jianqing Zhu and Huang Huang and Kewei Zong and Bang An and Mosen Alharthi and Juncai He and Lian Zhang and Haizhou Li and Benyou Wang and Jinchao Xu},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+  year={2024},
+  url={https://openreview.net/forum?id=woRFmNJiLp}
 }
 ```
 We are from the King Abdullah University of Science and Technology (KAUST), the Chinese University of Hong Kong, Shenzhen (CUHKSZ) and the Shenzhen Research Institute of Big Data (SRIBD).
